@@ -13,3 +13,5 @@ Some of the basic features of this Tic-Tac-Toe game are:
    (This is added to look interactive.)
    
 This is a fun application. Enjoy it in free-time. :p
+
+![image](https://github.com/ishubhamyd/Tic-Tac-Toe/blob/master/images/Tic-Tac-Toe.PNG)
